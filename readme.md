@@ -1,4 +1,4 @@
-# Hyperbolic Diffusion Embedding and Distance for Hierarchical Representation Learning
+# Hyperbolic Diffusion Distance
 
 ## Prerequisites
 
